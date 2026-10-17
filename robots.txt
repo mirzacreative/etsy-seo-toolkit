@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mirzacreative.github.io/etsy-seo-toolkit/sitemap.xml
